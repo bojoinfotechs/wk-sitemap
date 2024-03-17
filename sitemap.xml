@@ -199,4 +199,14 @@
   <sitemap>
     <loc>https://www.wishkarma.com/sitemap/Lighting_Accessories.xml</loc>
   </sitemap>
+
+    <sitemap>
+    <loc>https://www.wishkarma.com/sitemap/spacekit.xml</loc>
+  </sitemap>
+
+    <sitemap>
+    <loc>https://www.wishkarma.com/sitemap/productcomparison.xml</loc>
+  </sitemap>
+
+  
 </sitemapindex>
