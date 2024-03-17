@@ -1,2638 +1,2637 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor furniture/garden benches</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor furniture/garden chairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor furniture/outdoor cushions</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor furniture/hanging chairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor furniture/hammocks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor furniture/garden sofas</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor furniture/garden poufs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor furniture/garden daybeds</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor furniture/garden armchairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor furniture/garden hanging chair</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/gardening and accessories/greenhouses</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/gardening and accessories/planters</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/gardening and accessories/outdoor greenwalls</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/gardening and accessories/landscape edging</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/gardening and accessories/vertical gardening trellises</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/gardening and accessories/artificial grass</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/gardening and accessories/sprinklers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/garden awnings/garden gazebos</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/garden awnings/awnings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/garden awnings/pergolas</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/garden awnings/winter gardens</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fireplaces and heaters/outdoor heaters</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fireplaces and heaters/fire baskets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fireplaces and heaters/outdoor fireplaces</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/pool liners</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/swimming pools</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/outdoor hot tubs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/pool equipments</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/pool covers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/swimming pool heatings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/outdoor showers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/gates &amp; fences/railings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/gates &amp; fences/gates</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/gates &amp; fences/fences</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/gates &amp; fences/meshes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor flooring/decking</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor flooring/decorative chippings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor flooring/decorative pebbles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor flooring/lawn edging</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor flooring/outdoor floor tiles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor flooring/paving blocks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/outdoor flooring/synthetic grass surfaces</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/solar/solar gyser</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/solar/solar lights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/solar/solar panels</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/solar/solar roof</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/solar/solar street lights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fittings/agriculture fittings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fittings/swr fittings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fittings/water pipe fittings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/pipes/agriculture pipes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/pipes/swr pipes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/pipes/water pipes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/plumbing hardware/pipes and fittings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/plumbing hardware/pumps and motors</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/plumbing hardware/connection pipe</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/plumbing hardware/drain cleaner</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/plumbing hardware/flange</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/plumbing hardware/nipple</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/plumbing hardware/rust remover</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/plumbing hardware/solvent cement</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/plumbing hardware/tapes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/plumbing hardware/waste pipe</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/pumps/booster pumps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/pumps/centrifugal pump</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/pumps/open well pumps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/tanks/sewage tanks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/tanks/overhead tanks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/cabinets and counters/kitchen baskets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/cabinets and counters/kitchen drawers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/cabinets and counters/modular kitchens</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/cabinets and counters/pull outs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/cabinets and counters/cabinets &amp; drawer accessories</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/cabinets and counters/kitchen cabinets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/cabinets and counters/kitchen shelves</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/cooking ranges</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/ovens</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/chimneys</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/hobs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/mini fridges</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/garbage disposals</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/refrigerators</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/warming drawers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/water purifiers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/wine coolers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/dishwashers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen appliances/mixer-grinder</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen sinks/sinks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen sinks/kitchen faucets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen sinks/double bowl sinks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen sinks/single bowl sinks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen sinks/sink accessories</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen accessories/dish holders</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen accessories/drains</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen faucets/sink taps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/ceilings/suspended ceilings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/ceilings/coffered ceiling</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/ceilings/conventional ceiling</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/natural stone</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/floor tiles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/wall tiles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/color and gloss enhancers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/grouts</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/sealers and impregnators</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/screeds</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/stone and tile adhesives</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/brick tiles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/corian</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/granite</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/marble</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/mosaic chips</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/mosaics</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/paver tiles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/quartz</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/stones and tiles/swimming pool tiles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/paints and plasters/wood coatings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/paints and plasters/paints</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/paints and plasters/enamels</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/paints and plasters/exterior paints</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/paints and plasters/interior paints</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/paints and plasters/primers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/paints and plasters/putty</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/building blocks/bricks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/building blocks/blocks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/building blocks/aac blocks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/building blocks/adobe blocks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/building blocks/fly ash bricls</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/building blocks/jaalis</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/building blocks/red bricks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/floorings/floorings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/floorings/concrete flooring</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/floorings/terrazzo flooring</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/floorings/wooden flooring</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/doors/door handles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/doors/doors</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/doors/aluminium doors</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/doors/fire proof doors</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/doors/glass doors</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/doors/solid wood doors</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/doors/upvc/pvc doors</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hardware/locks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hardware/door accessories</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/cement admixtures/cement</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/cement admixtures/admixtures</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/roofs/roof tiles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/roofs/roof panels</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/roofs/water proofing</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/roofs/roof sytems</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/roofs/roof shingles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/roofs/poly carbonate sheets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/carpentry/laminates</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/carpentry/veneers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/carpentry/plywoods</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/carpentry/high pressure laminates</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/carpentry/wood decking</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/carpentry/wood slabs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/blinds</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/invisible blinds</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/louvers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/nets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/shutters</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/sun shaders</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/steel</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/angles &amp; channels</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/light weight truss</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/pre fabricated structures</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/stainless steel profile</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/shades/tmt</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/facades/facade cladding</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/facades/clay facades</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/facades/concrete facades</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/facades/glass facades</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/facades/metal facades</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/facades/stone facades</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/facades/wood facades</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/windows/windows</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/windows/automated windows</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/windows/casement windows</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/windows/sash windows</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/windows/sliding windows</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/construction materials/concrete</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/construction materials/stamp concrete</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/glass/architectural glass</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/glass/clear glass</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/glass/fluted glass</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/glass/frosted glass</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/glass/glass blocks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/glass/glass fittings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/glass/structural glass</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/wallpapers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/acoustic</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/aluminium profiles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/cement fiber board</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/cement particle board</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/concrete panel</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/fluted wood panels</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/mdf boards</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/metal composite panels</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/oriented strand board (osb)</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/plaster boards</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/pvc boards</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/wall panels</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/interior walls/wood panels</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/scaffolding/scaffolding products</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/water proofing/liquid coating</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/water proofing/sealants</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bars/bottle racks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bars/bar stools</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bars/bar cabinets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/office/filing cabinets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/office/office booths</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/office/visitors chairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/office/office workstations</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/office/executive chairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/office/office stools</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/office/office chairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/office/office partions</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/office/office storage units</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/office/office desks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/beds/king and queen beds</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/beds/day beds</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/beds/double beds</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/beds/single beds</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/beds/storage beds</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/chairs and sofas/massage chairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/chairs and sofas/sectionals</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/chairs and sofas/ottomans</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/chairs and sofas/easy chairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/chairs and sofas/dining chairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/chairs and sofas/lounge chairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/chairs and sofas/arm chairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/chairs and sofas/reclining</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/tables, benches, stools/bedside tables</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/tables, benches, stools/writing desks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/tables, benches, stools/foot stools</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/tables, benches, stools/dining tables</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/tables, benches, stools/benches</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/tables, benches, stools/coffee tables</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/storage units/side boards</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/storage units/walkin wardrobes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/storage units/book cases</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/storage units/storage walls</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/storage units/wall cabinets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/storage units/display cabinets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/storage units/chests of drawers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/storage units/tv cabinets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/storage units/wardrobes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/storage units/dressers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/soft furnishings/rugs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/soft furnishings/fabrics</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/soft furnishings/cushions</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/soft furnishings/carpets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/soft furnishings/mattresses</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/partitions/internal partitions</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/elevators/elevators &amp; escalators, travelators</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hvac/stoves</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hvac/boilers and burners</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hvac/radiators</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hvac/fire places</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hvac/ventilations</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hvac/floors and wall heaters</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hvac/al ducting</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/security/cctv system</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/security/access control systems</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/security/cctv camera</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/security/cctv wires</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/security/digital safes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fire prevention safety/fireproof walls and ceilings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fire prevention safety/fire-fighting systems and extinguishers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fire prevention safety/fire doors and closures</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fire prevention safety/fire escape and safety stairs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/home automation/home automation systems</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/home automation/touch screens</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/home automation/motion sensors</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/home automation/switch controllers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/home automation/voice activated switches</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/appliances/water heaters</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/appliances/air conditioners</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/appliances/solar water heater</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/appliances/fans</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/appliances/humidifiers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/wires and cables/switches and sockets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/wires and cables/electrical cables</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/wires and cables/low tension wires</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/circuit breakers/isolators</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/circuit breakers/mcb</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/circuit breakers/rccb</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/conduit, boxes &amp; fittings/conduit fittings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/conduit, boxes &amp; fittings/conduit pipes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/conduit, boxes &amp; fittings/wiring boxes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fans/ceiling fans</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fans/exhaust fan</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fans/pedestal fans</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fans/table fans</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fans/wall fans</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/switches and sockets/adaptors</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/switches and sockets/door bell</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/switches and sockets/plug tops</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/switches and sockets/regulators</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/switches and sockets/sockets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/switches and sockets/switch gears</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/switches and sockets/switch plates</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/bath stools</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/waste bins</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/toilet brushes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/toilet brush holders</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/robe hooks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/liquid soap dispensers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/mirrors</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/towel holders</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/tumbler holders</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/bottle trap</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/health faucets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/hair dryer holders</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/toothbrush holders</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/baskets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/shower rails</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/soap dishes</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/toilet seats</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/bathroom wall shelves</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/toilet roll holders</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/hand dryer</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom accessories/shower curtain</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom lighting/mirror lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom lighting/bathroom wall lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom lighting/sensory lights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/laundry/utility sinks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/laundry/washing machines</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/laundry/laundry baskets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/laundry/dryers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/accessible bathrooms/support rails</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/accessible bathrooms/walkin bath</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/sanitary ware/washbasins</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/sanitary ware/indian toilets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/sanitary ware/bidets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/sanitary ware/toilets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom furniture/washbasin countertops</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom furniture/bathroom cabinets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bathroom furniture/vanity units</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/faucets/diverters</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/faucets/bidet faucets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/faucets/washbasin faucet</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/faucets/angle valves</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/faucets/spouts</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/faucets/faucet spares</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/faucets/bathtub faucets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/faucets/shower mixers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/faucets/bath faucets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/faucets/sensor faucet</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/shower panels</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/body jets</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/shower arms</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/shower accessories</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/shower trays</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/overhead showers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/shower cabins</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/hand showers holders</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/rain showers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/electric showers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/hand showers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/showers/shower drains</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bath tubs/bath tubs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bath tubs/alcove bathtubs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bath tubs/corner bathtubs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bath tubs/drop-in bathtubs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bath tubs/free standing bathtubs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/bath tubs/jacuzzi/whirlpool</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/spares &amp; fittings/ball cock</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/spares &amp; fittings/cartridge</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/spares &amp; fittings/chand set</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/spares &amp; fittings/nozzle</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/spares &amp; fittings/washing machine adaptor</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/toilets/flush plates</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/toilets/urinals</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/toilets/flush tanks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/toilets/flushing sytems</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/toilets/flush valve</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/toilets/one piece toilet</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/toilets/two piece toilet</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/toilets/urinal push cock</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/toilets/urinal sensor</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/washbasins/built-in basins</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/washbasins/pedestal basins</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/washbasins/table top basins</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/washbasins/wall hung basins</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/lamp posts</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/underwater lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor floor lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/bollard lights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor pendant lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor wall lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/street lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor ceiling lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor spot lights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor floodlights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative interior lighting/floor lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative interior lighting/lamp shades</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative interior lighting/wall lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative interior lighting/ceiling light</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative interior lighting/pendant lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative interior lighting/chandelier lights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative interior lighting/table lamps</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative interior lighting/track lights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative interior lighting/furniture lighting</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/decorative interior lighting/downlights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/industrial/industrial lights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/accessories/linear lighting profiles</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/accessories/steplights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/accessories/spot lights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/accessories/light bulbs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/accessories/strip lights</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/cabinet hadware/drawer channels</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/cabinet hadware/cabinet handles &amp; knobs</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/door accessories/door systems</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/door accessories/door closers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/door accessories/door stoppers</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fasteners/dowel</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fasteners/nails</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fasteners/screws</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/fasteners/wall hooks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen hardware/drawer organiser</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen hardware/drawer systems</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/kitchen hardware/roller shutter</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/locks/cam locks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/locks/digital locks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/locks/furniture locks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/locks/latch locks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/locks/mortise locks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/locks/rim locks</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/other hardware/bed fittings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/other hardware/drawer mats</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/other hardware/floor spring</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/other hardware/skirtings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/wardrobe hardware/wardrobe fittings</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/wardrobe hardware/wardrobe sliding system</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hinges/soss hinges</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hinges/hydraulic hinges</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hinges/shutter hinges</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>https://www.wishkarma.com/product-type/hinges/door hinges</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1</priority>
-	</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor furniture/garden benches</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor furniture/garden chairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor furniture/outdoor cushions</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor furniture/hanging chairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor furniture/hammocks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor furniture/garden sofas</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor furniture/garden poufs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor furniture/garden daybeds</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor furniture/garden armchairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor furniture/garden hanging chair</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/gardening and accessories/greenhouses</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/gardening and accessories/planters</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/gardening and accessories/outdoor greenwalls</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/gardening and accessories/landscape edging</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/gardening and accessories/vertical gardening trellises</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/gardening and accessories/artificial grass</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/gardening and accessories/sprinklers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/garden awnings/garden gazebos</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/garden awnings/awnings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/garden awnings/pergolas</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/garden awnings/winter gardens</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fireplaces and heaters/outdoor heaters</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fireplaces and heaters/fire baskets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fireplaces and heaters/outdoor fireplaces</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/pool liners</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/swimming pools</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/outdoor hot tubs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/pool equipments</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/pool covers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/swimming pool heatings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/swimming pools tubs showers/outdoor showers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/gates &amp; fences/railings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/gates &amp; fences/gates</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/gates &amp; fences/fences</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/gates &amp; fences/meshes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor flooring/decking</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor flooring/decorative chippings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor flooring/decorative pebbles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor flooring/lawn edging</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor flooring/outdoor floor tiles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor flooring/paving blocks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/outdoor flooring/synthetic grass surfaces</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/solar/solar gyser</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/solar/solar lights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/solar/solar panels</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/solar/solar roof</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/solar/solar street lights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fittings/agriculture fittings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fittings/swr fittings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fittings/water pipe fittings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/pipes/agriculture pipes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/pipes/swr pipes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/pipes/water pipes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/plumbing hardware/pipes and fittings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/plumbing hardware/pumps and motors</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/plumbing hardware/connection pipe</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/plumbing hardware/drain cleaner</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/plumbing hardware/flange</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/plumbing hardware/nipple</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/plumbing hardware/rust remover</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/plumbing hardware/solvent cement</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/plumbing hardware/tapes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/plumbing hardware/waste pipe</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/pumps/booster pumps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/pumps/centrifugal pump</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/pumps/open well pumps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/tanks/sewage tanks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/tanks/overhead tanks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/cabinets and counters/kitchen baskets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/cabinets and counters/kitchen drawers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/cabinets and counters/modular kitchens</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/cabinets and counters/pull outs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/cabinets and counters/cabinets &amp; drawer accessories</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/cabinets and counters/kitchen cabinets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/cabinets and counters/kitchen shelves</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/cooking ranges</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/ovens</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/chimneys</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/hobs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/mini fridges</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/garbage disposals</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/refrigerators</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/warming drawers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/water purifiers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/wine coolers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/dishwashers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen appliances/mixer-grinder</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen sinks/sinks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen sinks/kitchen faucets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen sinks/double bowl sinks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen sinks/single bowl sinks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen sinks/sink accessories</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen accessories/dish holders</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen accessories/drains</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen faucets/sink taps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/ceilings/suspended ceilings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/ceilings/coffered ceiling</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/ceilings/conventional ceiling</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/natural stone</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/floor tiles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/wall tiles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/color and gloss enhancers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/grouts</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/sealers and impregnators</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/screeds</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/stone and tile adhesives</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/brick tiles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/corian</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/granite</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/marble</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/mosaic chips</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/mosaics</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/paver tiles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/quartz</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/stones and tiles/swimming pool tiles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/paints and plasters/wood coatings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/paints and plasters/paints</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/paints and plasters/enamels</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/paints and plasters/exterior paints</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/paints and plasters/interior paints</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/paints and plasters/primers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/paints and plasters/putty</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/building blocks/bricks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/building blocks/blocks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/building blocks/aac blocks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/building blocks/adobe blocks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/building blocks/fly ash bricls</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/building blocks/jaalis</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/building blocks/red bricks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/floorings/floorings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/floorings/concrete flooring</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/floorings/terrazzo flooring</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/floorings/wooden flooring</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/doors/door handles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/doors/doors</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/doors/aluminium doors</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/doors/fire proof doors</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/doors/glass doors</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/doors/solid wood doors</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/doors/upvc/pvc doors</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hardware/locks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hardware/door accessories</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/cement admixtures/cement</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/cement admixtures/admixtures</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/roofs/roof tiles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/roofs/roof panels</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/roofs/water proofing</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/roofs/roof sytems</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/roofs/roof shingles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/roofs/poly carbonate sheets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/carpentry/laminates</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/carpentry/veneers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/carpentry/plywoods</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/carpentry/high pressure laminates</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/carpentry/wood decking</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/carpentry/wood slabs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/blinds</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/invisible blinds</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/louvers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/nets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/shutters</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/sun shaders</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/steel</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/angles &amp; channels</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/light weight truss</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/pre fabricated structures</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/stainless steel profile</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/shades/tmt</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/facades/facade cladding</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/facades/clay facades</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/facades/concrete facades</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/facades/glass facades</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/facades/metal facades</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/facades/stone facades</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/facades/wood facades</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/windows/windows</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/windows/automated windows</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/windows/casement windows</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/windows/sash windows</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/windows/sliding windows</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/construction materials/concrete</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/construction materials/stamp concrete</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/glass/architectural glass</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/glass/clear glass</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/glass/fluted glass</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/glass/frosted glass</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/glass/glass blocks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/glass/glass fittings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/glass/structural glass</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/wallpapers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/acoustic</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/aluminium profiles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/cement fiber board</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/cement particle board</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/concrete panel</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/fluted wood panels</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/mdf boards</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/metal composite panels</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/oriented strand board (osb)</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/plaster boards</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/pvc boards</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/wall panels</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/interior walls/wood panels</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/scaffolding/scaffolding products</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/water proofing/liquid coating</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/water proofing/sealants</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bars/bottle racks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bars/bar stools</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bars/bar cabinets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/office/filing cabinets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/office/office booths</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/office/visitors chairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/office/office workstations</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/office/executive chairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/office/office stools</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/office/office chairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/office/office partions</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/office/office storage units</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/office/office desks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/beds/king and queen beds</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/beds/day beds</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/beds/double beds</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/beds/single beds</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/beds/storage beds</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/chairs and sofas/massage chairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/chairs and sofas/sectionals</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/chairs and sofas/ottomans</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/chairs and sofas/easy chairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/chairs and sofas/dining chairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/chairs and sofas/lounge chairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/chairs and sofas/arm chairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/chairs and sofas/reclining</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/tables, benches, stools/bedside tables</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/tables, benches, stools/writing desks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/tables, benches, stools/foot stools</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/tables, benches, stools/dining tables</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/tables, benches, stools/benches</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/tables, benches, stools/coffee tables</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/storage units/side boards</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/storage units/walkin wardrobes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/storage units/book cases</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/storage units/storage walls</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/storage units/wall cabinets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/storage units/display cabinets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/storage units/chests of drawers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/storage units/tv cabinets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/storage units/wardrobes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/storage units/dressers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/soft furnishings/rugs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/soft furnishings/fabrics</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/soft furnishings/cushions</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/soft furnishings/carpets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/soft furnishings/mattresses</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/partitions/internal partitions</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/elevators/elevators &amp; escalators, travelators</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hvac/stoves</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hvac/boilers and burners</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hvac/radiators</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hvac/fire places</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hvac/ventilations</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hvac/floors and wall heaters</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hvac/al ducting</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/security/cctv system</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/security/access control systems</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/security/cctv camera</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/security/cctv wires</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/security/digital safes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fire prevention safety/fireproof walls and ceilings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fire prevention safety/fire-fighting systems and extinguishers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fire prevention safety/fire doors and closures</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fire prevention safety/fire escape and safety stairs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/home automation/home automation systems</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/home automation/touch screens</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/home automation/motion sensors</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/home automation/switch controllers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/home automation/voice activated switches</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/appliances/water heaters</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/appliances/air conditioners</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/appliances/solar water heater</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/appliances/fans</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/appliances/humidifiers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/wires and cables/switches and sockets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/wires and cables/electrical cables</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/wires and cables/low tension wires</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/circuit breakers/isolators</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/circuit breakers/mcb</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/circuit breakers/rccb</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/conduit, boxes &amp; fittings/conduit fittings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/conduit, boxes &amp; fittings/conduit pipes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/conduit, boxes &amp; fittings/wiring boxes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fans/ceiling fans</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fans/exhaust fan</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fans/pedestal fans</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fans/table fans</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fans/wall fans</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/switches and sockets/adaptors</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/switches and sockets/door bell</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/switches and sockets/plug tops</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/switches and sockets/regulators</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/switches and sockets/sockets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/switches and sockets/switch gears</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/switches and sockets/switch plates</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/bath stools</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/waste bins</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/toilet brushes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/toilet brush holders</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/robe hooks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/liquid soap dispensers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/mirrors</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/towel holders</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/tumbler holders</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/bottle trap</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/health faucets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/hair dryer holders</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/toothbrush holders</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/baskets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/shower rails</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/soap dishes</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/toilet seats</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/bathroom wall shelves</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/toilet roll holders</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/hand dryer</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom accessories/shower curtain</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom lighting/mirror lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom lighting/bathroom wall lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom lighting/sensory lights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/laundry/utility sinks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/laundry/washing machines</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/laundry/laundry baskets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/laundry/dryers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/accessible bathrooms/support rails</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/accessible bathrooms/walkin bath</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/sanitary ware/washbasins</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/sanitary ware/indian toilets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/sanitary ware/bidets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/sanitary ware/toilets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom furniture/washbasin countertops</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom furniture/bathroom cabinets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bathroom furniture/vanity units</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/faucets/diverters</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/faucets/bidet faucets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/faucets/washbasin faucet</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/faucets/angle valves</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/faucets/spouts</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/faucets/faucet spares</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/faucets/bathtub faucets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/faucets/shower mixers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/faucets/bath faucets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/faucets/sensor faucet</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/shower panels</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/body jets</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/shower arms</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/shower accessories</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/shower trays</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/overhead showers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/shower cabins</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/hand showers holders</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/rain showers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/electric showers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/hand showers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/showers/shower drains</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bath tubs/bath tubs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bath tubs/alcove bathtubs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bath tubs/corner bathtubs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bath tubs/drop-in bathtubs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bath tubs/free standing bathtubs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/bath tubs/jacuzzi/whirlpool</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/spares &amp; fittings/ball cock</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/spares &amp; fittings/cartridge</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/spares &amp; fittings/chand set</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/spares &amp; fittings/nozzle</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/spares &amp; fittings/washing machine adaptor</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/toilets/flush plates</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/toilets/urinals</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/toilets/flush tanks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/toilets/flushing sytems</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/toilets/flush valve</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/toilets/one piece toilet</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/toilets/two piece toilet</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/toilets/urinal push cock</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/toilets/urinal sensor</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/washbasins/built-in basins</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/washbasins/pedestal basins</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/washbasins/table top basins</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/washbasins/wall hung basins</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/lamp posts</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/underwater lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor floor lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/bollard lights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor pendant lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor wall lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/street lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor ceiling lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor spot lights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative outdoor lighting/outdoor floodlights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative interior lighting/floor lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative interior lighting/lamp shades</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative interior lighting/wall lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative interior lighting/ceiling light</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative interior lighting/pendant lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative interior lighting/chandelier lights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative interior lighting/table lamps</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative interior lighting/track lights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative interior lighting/furniture lighting</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/decorative interior lighting/downlights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/industrial/industrial lights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/accessories/linear lighting profiles</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/accessories/steplights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/accessories/spot lights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/accessories/light bulbs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/accessories/strip lights</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/cabinet hadware/drawer channels</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/cabinet hadware/cabinet handles &amp; knobs</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/door accessories/door systems</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/door accessories/door closers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/door accessories/door stoppers</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fasteners/dowel</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fasteners/nails</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fasteners/screws</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/fasteners/wall hooks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen hardware/drawer organiser</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen hardware/drawer systems</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/kitchen hardware/roller shutter</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/locks/cam locks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/locks/digital locks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/locks/furniture locks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/locks/latch locks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/locks/mortise locks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/locks/rim locks</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/other hardware/bed fittings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/other hardware/drawer mats</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/other hardware/floor spring</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/other hardware/skirtings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/wardrobe hardware/wardrobe fittings</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/wardrobe hardware/wardrobe sliding system</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hinges/soss hinges</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hinges/hydraulic hinges</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hinges/shutter hinges</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://www.wishkarma.com/product-type/hinges/door hinges</loc>
+        <lastmod>2023-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
 </urlset>

@@ -1,206 +1,212 @@
 <?xml version='1.0' encoding='UTF-8'?>
-
-<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-
-         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
-
-         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://www.wishkarma.com/sitemap/categories.xml</loc>
   </sitemap>
   <sitemap>
     <loc>https://www.wishkarma.com/sitemap/subcategories.xml</loc>
   </sitemap>
-    <sitemap>
+  <sitemap>
     <loc>https://www.wishkarma.com/sitemap/productype.xml</loc>
   </sitemap>
-    <sitemap>
+  <sitemap>
     <loc>https://www.wishkarma.com/sitemap/brands.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Kitchen_Cabinetsandcounters.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Kitchen_Cabinetsandcounters.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Electrical_Security.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Electrical_Security.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Bathrooms_BathroomAccessories.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Bathrooms_BathroomAccessories.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Kitchen_Kitchenappliances.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Kitchen_Kitchenappliances.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Ceilings.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Ceilings.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Outdoors_Outdoorfurniture.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Outdoors_Outdoorfurniture.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Stonesandtiles.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Stonesandtiles.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Outdoors_Gardeningandaccessories.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Outdoors_Gardeningandaccessories.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Paintsandplasters.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Paintsandplasters.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Buildingblocks.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Buildingblocks.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Outdoors_Gardenawnings.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Outdoors_Gardenawnings.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Outdoors_Fireplacesandheaters.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Outdoors_Fireplacesandheaters.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Outdoors_Swimmingpoolstubsshowers.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Outdoors_Swimmingpoolstubsshowers.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Floorings.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Floorings.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Doors.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Doors.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Bathrooms_Bathroomlighting.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Bathrooms_Bathroomlighting.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_InnerWalls.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_InnerWalls.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Bathrooms_Laundry.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Bathrooms_Laundry.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Outdoors_GatesFences.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Outdoors_GatesFences.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Plumbing_WaterSystems.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Plumbing_WaterSystems.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Electrical_Firepreventionsafety.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Electrical_Firepreventionsafety.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Hardware.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Hardware.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Cementadmixtures.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Cementadmixtures.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Roofs.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Roofs.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Electrical_Homeautomation.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Electrical_Homeautomation.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Bathrooms_AccessibleBathrooms.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Bathrooms_AccessibleBathrooms.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Bathrooms_Sanitaryware.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Bathrooms_Sanitaryware.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Carpentry.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Carpentry.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Furniture_Bars.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Furniture_Bars.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Mechanical_Elevators.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Mechanical_Elevators.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Bathrooms_BathroomFurniture.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Bathrooms_BathroomFurniture.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Lighting_DecorativeOutdoorLighting.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Lighting_DecorativeOutdoorLighting.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Shades.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Shades.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Metalstructures.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Metalstructures.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Furniture_Office.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Furniture_Office.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Furniture_Beds.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Furniture_Beds.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Furniture_Chairsandsofas.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Furniture_Chairsandsofas.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Facades.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Facades.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Bathrooms_Faucets.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Bathrooms_Faucets.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Lighting_DecorativeInteriorLighting.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Lighting_DecorativeInteriorLighting.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Electrical_Appliances.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Electrical_Appliances.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Bathrooms_Showers.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Bathrooms_Showers.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Furniture_Tablesbenchesstools.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Furniture_Tablesbenchesstools.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Mechanical_HVAC.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Mechanical_HVAC.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Kitchen_KitchenSinks.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Kitchen_KitchenSinks.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Bathrooms_Bathtubs.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Bathrooms_Bathtubs.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Windows.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Windows.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Furniture_Storageunits.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Furniture_Storageunits.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Electrical_WiresandCables.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Electrical_WiresandCables.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/_DoorAccessories.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/_DoorAccessories.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Electrical_Fans.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Electrical_Fans.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Glass.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Glass.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Materials_Interiorwalls.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Materials_Interiorwalls.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Kitchen_KitchenAccessories.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Kitchen_KitchenAccessories.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Kitchen_KitchenFaucets.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Kitchen_KitchenFaucets.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/_KitchenHardware.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/_KitchenHardware.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/_Locks.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/_Locks.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/_OtherHardware.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/_OtherHardware.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Plumbing_Pipes.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Plumbing_Pipes.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Plumbing_PlumbingHardware.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Plumbing_PlumbingHardware.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Bathrooms_Toilets.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Bathrooms_Toilets.xml</loc>
   </sitemap>
   <sitemap>
-  <loc>https://www.wishkarma.com/sitemap/Lighting_Accessories.xml</loc>
+    <loc>https://www.wishkarma.com/sitemap/Lighting_Accessories.xml</loc>
   </sitemap>
+
+    <sitemap>
+    <loc>https://www.wishkarma.com/sitemap/spacekit.xml</loc>
+  </sitemap>
+
+    <sitemap>
+    <loc>https://www.wishkarma.com/sitemap/productcomparison.xml</loc>
+  </sitemap>
+
+  
 </sitemapindex>
